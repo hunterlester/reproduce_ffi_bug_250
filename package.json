@@ -1,0 +1,15 @@
+{
+  "name": "test-250",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env NODE_ENV=test node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@maidsafe/safe-node-app": "^0.9.0",
+    "cross-env": "^5.2.0"
+  }
+}
